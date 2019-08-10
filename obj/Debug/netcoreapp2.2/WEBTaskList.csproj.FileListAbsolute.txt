@@ -1,0 +1,14 @@
+C:\REPOs\WEBTaskList\bin\Debug\netcoreapp2.2\WEBTaskList.deps.json
+C:\REPOs\WEBTaskList\bin\Debug\netcoreapp2.2\WEBTaskList.runtimeconfig.json
+C:\REPOs\WEBTaskList\bin\Debug\netcoreapp2.2\WEBTaskList.runtimeconfig.dev.json
+C:\REPOs\WEBTaskList\bin\Debug\netcoreapp2.2\WEBTaskList.dll
+C:\REPOs\WEBTaskList\bin\Debug\netcoreapp2.2\WEBTaskList.pdb
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.csprojAssemblyReference.cache
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.csproj.CoreCompileInputs.cache
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.RazorAssemblyInfo.cache
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.RazorAssemblyInfo.cs
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.AssemblyInfoInputs.cache
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.AssemblyInfo.cs
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.RazorTargetAssemblyInfo.cache
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.dll
+C:\REPOs\WEBTaskList\obj\Debug\netcoreapp2.2\WEBTaskList.pdb
